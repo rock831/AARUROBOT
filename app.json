@@ -42,7 +42,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5568362278"
+         "value": "5150456401"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -59,7 +59,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "LOVE_BIRDS_123"
+         "value": "AARU_SUPPORT"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -92,9 +92,9 @@
         "required": false
       },
       "DEV_USERS": {
-         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Fallen Support then keep the current ID's here at they are and add yours.",
+         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother AARU Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "5568362278"
+         "value": "5150456401"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -108,22 +108,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5568362278"
+         "value": "5150456401"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "5568362278"
+         "value": "5150456401"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "5568362278"
+         "value": "5150456401"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "5568362278"
+         "value": "5150456401"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -159,7 +159,7 @@
          "value": "True"
       },
       "DONATION_LINK": {
-         "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
+         "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to BANNA_XD",
          "required": false,
          "value": "https://t.me/BANNA_XD"
       },
