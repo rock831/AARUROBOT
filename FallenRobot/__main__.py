@@ -81,7 +81,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="✗ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ ✗", url=f"https://t.me/MISS_AARU_X_ROBOT?startgroup=true"),
+            text="✗ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ ✗", url="https://t.me/MISS_AARU_X_ROBOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -89,7 +89,8 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💞 ᴀʙᴏᴜᴛ ᴍᴇ​​ 💞", callback_data=f"https://t.me/AARU_BOTS_ZONE"),
+            text="💞 ᴀʙᴏᴜᴛ ᴍᴇ​​ 💞", callback_data=f"https://t.me/AARU_BOTS_ZONE"
+        ),
         InlineKeyboardButton(
             text="😎 ᴏᴡɴᴇʀ_xᴅ 😎", callback_data=f"https://t.me/BANNA_XD"),
     ],
