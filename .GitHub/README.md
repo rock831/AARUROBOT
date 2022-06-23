@@ -10,11 +10,11 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://telegra.ph/file/793bea320641b9112afef.jpg">
+  <img src="https://te.legra.ph/file/0a04881341f1e1bf99a5a.jpg">
 </p>
 
 ##ㅤ🖤 𝔸𝕒ℝ𝕦🇽 ℝ𝕠𝔹𝕠𝕋 🖤
-ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞𝔸𝕒ℝ𝕦🇽 ℝ𝕠𝔹𝕠𝕋​💞](https://t.me/MISS_AARU_X_ROBOT)
+ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞𝐑𝐎𝐂𝐊𝐄𝐘🇽 𝐑𝐎𝐁𝐎𝐓​💞](https://t.me/ROCKEY_X_BOT)
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
@@ -24,4 +24,4 @@
 
 ### ㅤCREDITS 😘
 
-🖤❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/BANNA-XD143)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/BANNA_XD)
+🖤MR_Rᴏᴄᴋᴇʏ ʙᴏʏ °  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/BANNA-XD143)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/MR_ROCKEY_BOY)
