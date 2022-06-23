@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://github.com/BANNA-XD143/AARUROBOT/stargazers"><img src="https://img.shields.io/github/stars/BANNA-XD143/AARUROBOT?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/rock831/AARUROBOT/stargazers"><img src="https://img.shields.io/github/stars/rock831/AARUROBOT?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/BANNA-XD143/AARUROBOT"> <img src="https://img.shields.io/github/repo-size/BANNA-XD143/AARUROBOT?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/BANNA-XD143/AARUROBOT/commits/prince"> <img src="https://img.shields.io/github/last-commit/BANNA-XD/AARUROBOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/BANNA-XD143/AARUROBOT/issues"> <img src="https://img.shields.io/github/issues/BANNA-XD143/AARUROBOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/BANNA-XD143/AARUROBOT/network/members"> <img src="https://img.shields.io/github/forks/BANNA-XD143/AARUROBOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/rock831/AARUROBOT"> <img src="https://img.shields.io/github/repo-size/rock831/AARUROBOT?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/rock831/AARUROBOT/commits/prince"> <img src="https://img.shields.io/github/last-commit/rock831/AARUROBOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/rock831/AARUROBOT/issues"> <img src="https://img.shields.io/github/issues/rock831/AARUROBOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/rock831/AARUROBOT/network/members"> <img src="https://img.shields.io/github/forks/rock831/AARUROBOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
@@ -24,4 +24,4 @@
 
 ### ㅤCREDITS 😘
 
-🖤MR_Rᴏᴄᴋᴇʏ ʙᴏʏ °  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/BANNA-XD143)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/MR_ROCKEY_BOY)
+🖤MR_Rᴏᴄᴋᴇʏ ʙᴏʏ °  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/rock831)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/MR_ROCKEY_BOY)
